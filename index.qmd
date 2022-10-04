@@ -1,0 +1,8 @@
+---
+title: "About us"
+---
+
+We are a group in Sun Yat-sen University based at Guangzhou, China. The group is led by Professor Hualiang Lin.
+
+![Group profile](group-profile.jpg)
+

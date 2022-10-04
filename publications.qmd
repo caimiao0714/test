@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+The research conducted by this group has been published on high-impact journals including Lancet Public Health, Environmental Health Perspectives, the Innovation, etc.
+
+
+# Selected publications
+
+- Ma Q, Li R, Wang L, Yin P, Wang Y, Yan C, Ren Y, Qian ZM, Vaughn MG, McMillin SE, Hay SI, Naghavi M, Cai M, Wang C, Zhang Z, Zhou M\*, Lin HL\*, Yang Y\*. [Temporal trend and attributable risk factors of stroke burden in China, 1990-2019: An analysis for the Global Burden of Disease study 2019](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00228-0/fulltext). The Lancet Public Health. 2021, 6 (12): e897-e906
+
+- Qi J, Ruan Z, Qian ZM, Yin P, Yang Y, Acharya BK, Wang L, Lin HL*, [Potential gains in life expectancy by attaining daily ambient fine particulate matter pollution standards in mainland China: A modeling study based on nationwide data](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003027). PLOS Medicine, 2020, 17(1):e1003027
+
+- Wang X, Guo Y, Cai M, Qian Z, Zhang S, Zhang Z, Yang Y, Vaughn MG, Aaron HE, Wu F, Zhang Y, Lin HL*. [Constituents of fine particulate matter and asthma in six low- and middle-income countries](https://www.jacionline.org/article/S0091-6749(21)02737-8/pdf). Journal of Allergy and Clinical Immunology. 2022. 150: 214-222.
+
+- Cai M, Li H, Wu Y, Zhang S, Wang X, Zhang Z, Lin HL*, [Ambient Air Pollution Associated with Body Fat Percentages at Different Body Compartments: A Cohort Study of UK Biobank Participants](https://ehp.niehs.nih.gov/doi/10.1289/EHP10920). Environmental Health Perspectives, 2022. 130(6): 067702.
+
+
+

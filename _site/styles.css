@@ -1,0 +1,8 @@
+/* css styles */
+// Base document colors
+$body-bg: #6baed6;
+$body-color: white;
+$link-color: #75AADB;
+
+// Code blocks
+$code-block-bg-alpha: -.8;

@@ -1,0 +1,29 @@
+---
+title: "About us"
+image: group-profile.jpg
+---
+
+We are a group in Sun Yat-sen University based at Guangzhou, China.
+
+![Group profile](group-profile.jpg)
+
+## Faculty
+
+- Hualiang Lin
+- Zilong Zhang
+- Yin Yang
+
+## Post-docs
+
+- Miao Cai
+- Junguo Zhang
+- Junjie Hua
+
+
+## Students
+
+- Xiaojie Wang
+- Shiyu Zhang
+- Fei Tian
+
+

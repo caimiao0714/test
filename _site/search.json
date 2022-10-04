@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About us",
+    "section": "",
+    "text": "Group profile"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About us",
+    "section": "",
+    "text": "We are a group in Sun Yat-sen University based at Guangzhou, China."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media coverage",
+    "section": "",
+    "text": "American Academy of Neurology’s Press Release:Air Pollution Linked to Trajectory of Stroke\nNew Scientist: Air pollution raises our risk of a stroke and its later complications\nScience Daily: Air pollution linked to trajectory of stroke"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Selected publications\n\nMa Q, Li R, Wang L, Yin P, Wang Y, Yan C, Ren Y, Qian ZM, Vaughn MG, McMillin SE, Hay SI, Naghavi M, Cai M, Wang C, Zhang Z, Zhou M*, Lin HL*, Yang Y*. Temporal trend and attributable risk factors of stroke burden in China, 1990-2019: An analysis for the Global Burden of Disease study 2019. The Lancet Public Health. 2021, 6 (12): e897-e906\nQi J, Ruan Z, Qian ZM, Yin P, Yang Y, Acharya BK, Wang L, Lin HL*, Potential gains in life expectancy by attaining daily ambient fine particulate matter pollution standards in mainland China: A modeling study based on nationwide data. PLOS Medicine, 2020, 17(1):e1003027\nWang X, Guo Y, Cai M, Qian Z, Zhang S, Zhang Z, Yang Y, Vaughn MG, Aaron HE, Wu F, Zhang Y, Lin HL*. Constituents of fine particulate matter and asthma in six low- and middle-income countries. Journal of Allergy and Clinical Immunology. 2022. 150: 214-222.\nCai M, Li H, Wu Y, Zhang S, Wang X, Zhang Z, Lin HL*, Ambient Air Pollution Associated with Body Fat Percentages at Different Body Compartments: A Cohort Study of UK Biobank Participants. Environmental Health Perspectives, 2022. 130(6): 067702."
+  },
+  {
+    "objectID": "about.html#faculty",
+    "href": "about.html#faculty",
+    "title": "About us",
+    "section": "Faculty",
+    "text": "Faculty\n\nHualiang Lin\nZilong Zhang\nYin Yang"
+  },
+  {
+    "objectID": "about.html#post-docs",
+    "href": "about.html#post-docs",
+    "title": "About us",
+    "section": "Post-docs",
+    "text": "Post-docs\n\nMiao Cai\nJunguo Zhang\nJunjie Hua"
+  },
+  {
+    "objectID": "about.html#students",
+    "href": "about.html#students",
+    "title": "About us",
+    "section": "Students",
+    "text": "Students\n\nXiaojie Wang\nShiyu Zhang\nFei Tian"
+  },
+  {
+    "objectID": "index.html#faculty",
+    "href": "index.html#faculty",
+    "title": "About us",
+    "section": "Faculty",
+    "text": "Faculty\n\nHualiang Lin\nZilong Zhang\nYin Yang"
+  },
+  {
+    "objectID": "index.html#post-docs",
+    "href": "index.html#post-docs",
+    "title": "About us",
+    "section": "Post-docs",
+    "text": "Post-docs\n\nMiao Cai\nJunguo Zhang\nJunjie Hua"
+  },
+  {
+    "objectID": "index.html#students",
+    "href": "index.html#students",
+    "title": "About us",
+    "section": "Students",
+    "text": "Students\n\nXiaojie Wang\nShiyu Zhang\nFei Tian"
+  },
+  {
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "Data sets",
+    "section": "",
+    "text": "To be published."
+  },
+  {
+    "objectID": "dataset.html#china",
+    "href": "dataset.html#china",
+    "title": "Data sets",
+    "section": "China",
+    "text": "China"
+  },
+  {
+    "objectID": "dataset.html#uk-biobank",
+    "href": "dataset.html#uk-biobank",
+    "title": "Data sets",
+    "section": "UK Biobank",
+    "text": "UK Biobank"
+  }
+]
